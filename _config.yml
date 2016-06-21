@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ifreelander.github.io
+title: escapedoublequotes
+tagline: Work and Study notes
+description: My awesome new site
+paginate: 50
