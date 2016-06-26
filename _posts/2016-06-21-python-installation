@@ -1,0 +1,6 @@
+---
+published: true
+title: python installation
+layout: post
+---
+Its recommended to install python via Homebrew as the version of python that is comes on mac by default has some dependencies to mac os version and it causes issues at the time of os upgrade.
