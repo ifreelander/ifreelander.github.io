@@ -6,3 +6,5 @@ title: ifreelander
 tagline: Work and Study notes
 description: My awesome new site
 paginate: 50
+
+theme: jekyll-theme-hacker
